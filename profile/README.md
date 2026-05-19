@@ -10,6 +10,17 @@ Apex DEX is designed to provide a high-performance, Uniswap V2-compatible tradin
 
 ---
 
+## 🌐 Live Demo
+
+You can try the live demo here:
+
+👉 https://apex-dex.onrender.com/
+
+> **Note:** The application is deployed on Render free-tier infrastructure.  
+> Instances may enter sleep mode after inactivity, so the first request can take up to a minute while the backend services and indexer are starting up.
+
+---
+
 ## 🗺️ Project Architecture & Repositories
 
 The ecosystem is built with a modular approach, separating core logic, data indexing, and user interface.
@@ -59,6 +70,16 @@ All components are fully integrated and deployed on the **Ethereum Sepolia Testn
 
 ---
 
+## 📖 Educational & Open Source Project
+
+Apex DEX is a **non-commercial educational project** created for learning, experimentation, and portfolio demonstration purposes.
+
+The project is fully open source, and you are free to explore, study, reuse, modify, or adapt the code for your own projects and learning needs.
+
+The goal of this ecosystem is to demonstrate modern decentralized exchange architecture, indexing pipelines, backend orchestration, and frontend engineering practices in a real-world environment.
+
+---
+
 ## 👨‍💻 Author
 
 This entire ecosystem was architected and developed by **[taranvd](https://github.com/taranvd)**.
@@ -70,5 +91,6 @@ Feel free to explore the code, open issues, or contribute to the project!
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
   <img src="https://img.shields.io/badge/Network-Sepolia-blue.svg" alt="Network" />
+  <img src="https://img.shields.io/badge/Open%20Source-yes-orange.svg" alt="Open Source" />
   <img src="https://img.shields.io/badge/Made%20with-Passion-red.svg" alt="Passion" />
 </p>
