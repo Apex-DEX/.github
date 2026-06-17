@@ -8,19 +8,6 @@ Welcome to the **Apex DEX** organization! This is a complete, full-stack decentr
 
 Apex DEX is designed to provide a high-performance, Uniswap V2-compatible trading experience with real-time analytics and advanced indexing.
 
----
-
-## 🌐 Live Demo
-
-You can try the live demo here:
-
-👉 https://apex-dex.onrender.com/
-
-> **Note:** The application is deployed on Render free-tier infrastructure.  
-> Instances may enter sleep mode after inactivity, so the first request can take up to a minute while the backend services and indexer are starting up.
-
----
-
 ## 🗺️ Project Architecture & Repositories
 
 The ecosystem is built with a modular approach, separating core logic, data indexing, and user interface.
